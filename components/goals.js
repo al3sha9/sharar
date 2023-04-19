@@ -33,7 +33,7 @@ export const Feature = () => {
               </div>
               <h6 className="mb-2 text-xl text-slate-800 font-semibold leading-5">Diagnosis</h6>
               <p className="text-sm text-gray-700">
-                A flower in my garden, a mystery in my panties. Heart attack never
+                A flower in my garden, a mystery in my . Heart attack never
                 stopped old Big Bear. I didn't even know we were calling him Big
                 Bear.
               </p>
